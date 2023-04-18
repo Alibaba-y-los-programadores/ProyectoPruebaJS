@@ -1,6 +1,6 @@
 <h1>Prueba avanzada en JavaScript y proyectos en GitHub</h1>
 </br>
-Comenzamos con este proyecto a través de JavaScript, HTML y CSS, todo lo que vamos a hacer es una guia por medio de GitHub
+Comenzamos con este proyecto a través de JavaScript, HTML y CSS, todo lo que vamos a hacer es una guia por medio de GitHub.
 </br>
 Este proyecto lo he iniciado para mostrar el formato de trabajo en la vida real de un programador, aunque no mostre la 
 creación total de todo el código, es por esto que le deben sumar el trabajo de programar el algoritmo en cada uno de los lenguajes.
