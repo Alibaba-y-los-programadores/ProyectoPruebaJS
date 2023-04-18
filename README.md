@@ -1,12 +1,5 @@
-<h1>Prueba avanzada en JavaScript y proyectos en GitHub</h1>
-</br>
-Comenzamos con este proyecto a través de JavaScript, HTML y CSS, todo lo que vamos a hacer es una guia por medio de GitHub.
-</br>
-Este proyecto lo he iniciado para mostrar el formato de trabajo en la vida real de un programador, aunque no mostre la 
-creación total de todo el código, es por esto que le deben sumar el trabajo de programar el algoritmo en cada uno de los lenguajes.
-Veran que tuve errores, siempre se tienen, es también muy importante hacer cada prueba hasta que todo quede perfecto.
-este algoritmo trata un botón situado en la pantalla, con el cual se puede interactuar, abriendo la tapa, cerrando, presionando 
-el botón, con la posibilidad de abortar el conteo para la explosión de la bomba, al final de la posibilidad de reiniciar
-el programa, cargando de nuevo ola pantalla principal y comienza de nuevo la interacción.
-
-PARA EJECUTAR EL PROGRAMA, HACER CLIK EN EL SIGUIENTE ENLACE:https://alibaba-y-los-programadores.github.io/ProyectoPruebaJS/pruebahtml
+<h1 style="text-align:center;">Prueba avanzada en JavaScript y proyectos en GitHub</h1>
+<p>Este proyecto es una guía sobre cómo trabajar con JavaScript, HTML y CSS utilizando GitHub. Aunque no se muestra la creación total de todo el código, se proporciona una base sólida para que los programadores puedan programar el algoritmo en cada uno de los lenguajes.</p>
+<p>En este proyecto, se presenta un botón situado en la pantalla con el cual se puede interactuar, abriendo la tapa, cerrando, presionando el botón, con la posibilidad de abortar el conteo para la explosión de la bomba. Al final de la interacción, se ofrece la posibilidad de reiniciar el programa cargando de nuevo la pantalla principal para comenzar de nuevo la interacción.</p>
+<p>Es importante destacar que en el proceso de creación de este proyecto, se han cometido errores, lo que es normal en la vida de un programador. Es por esto que es fundamental hacer pruebas hasta que todo quede perfecto.</p>
+<p>Para ejecutar el programa, puede hacer clic en el siguiente enlace: <a href="https://alibaba-y-los-programadores.github.io/ProyectoPruebaJS/pruebahtml" target="_blank">https://alibaba-y-los-programadores.github.io/ProyectoPruebaJS/pruebahtml</a></p>
